@@ -4,3 +4,8 @@
   font-family: "Montserrat", serif;
   font-optical-sizing: auto;
 }
+
+.custom-img {
+  width: 250px;
+  height: 250px;
+}
